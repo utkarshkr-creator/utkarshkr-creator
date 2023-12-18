@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @utkarshkr-creator
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning DSA and persuing Btech in information technology 
-- 💞️ I’m looking to collaborate on any project idea based on python 
-- 📫 mail me at 2016krutkarsh@gmail.com
+- 👋 Hi
 
 <!---
 utkarshkr-creator/utkarshkr-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
